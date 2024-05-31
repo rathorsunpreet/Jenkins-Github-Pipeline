@@ -13,7 +13,7 @@ If keyword "report" is present during input, then a special stage within the pip
 * [Jenkins](https://www.jenkins.io/)
 * [NodeJS Jenkins Plugin](https://plugins.jenkins.io/nodejs/)
 * [Pipeline Utility Steps Plugin](https://plugins.jenkins.io/pipeline-utility-steps/)
-* An account that has admin priviledges or an account that can get the script approved. ![]()
+* An account that has admin priviledges or an account that can get the script approved. ![Script Approval Screen](https://github.com/rathorsunpreet/Jenkins-Github-Pipeline/blob/master/Images/Script_Approval_2.PNG "Script Approval Screen")
 
 ## Installation
 
@@ -22,7 +22,7 @@ If keyword "report" is present during input, then a special stage within the pip
 3. Under the Script section, copy and paste the Jenkinsfile.
 4. Uncheck "Use Groovy Sandbox".
 5. Click on "Apply".
-6. ![]("Script Approval") Click on Approve Script.
+6. ![Script Approval Configuration Pipeline Screen](https://github.com/rathorsunpreet/Jenkins-Github-Pipeline/blob/master/Images/Script_Approval.PNG "Script Approval Configuration Pipeline Screen") Click on Approve Script.
 7. Click on "Save".  
 
 ## Usage
