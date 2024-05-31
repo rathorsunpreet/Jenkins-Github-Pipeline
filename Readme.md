@@ -22,7 +22,7 @@ If keyword "report" is present during input, then a special stage within the pip
 3. Under the Script section, copy and paste the Jenkinsfile.
 4. Uncheck "Use Groovy Sandbox".
 5. Click on "Apply".
-6. ![Script Approval Configuration Pipeline Screen](https://github.com/rathorsunpreet/Jenkins-Github-Pipeline/blob/master/Images/Script_Approval.PNG "Script Approval Configuration Pipeline Screen") Click on Approve Script.
+6. Click on Approve Script. ![Script Approval Configuration Pipeline Screen](https://github.com/rathorsunpreet/Jenkins-Github-Pipeline/blob/master/Images/Script_Approval.PNG "Script Approval Configuration Pipeline Screen")
 7. Click on "Save".  
 
 ## Usage
