@@ -16,6 +16,14 @@ If keyword "report" is present during input, then a special stage within the pip
 * An account that has admin priviledges or an account that can get the script approved. ![Script Approval Screen](https://github.com/rathorsunpreet/Jenkins-Github-Pipeline/blob/master/Images/Script_Approval_2.PNG "Script Approval Screen")
 
 ## Installation
+1. Create a new Pipeline job.
+2. Under Pipeline -> Definition, select "Pipeline script from SCM".
+3. Under SCM -> Repositories -> Repository URL, provide the url "https://github.com/rathorsunpreet/Jenkins-Github-Pipeline".
+4. Under Branches to build -> Branch Specifier, make sure it is "*/master".
+5. Under Script Path, make sure it is "Jenkinsfile".
+6. Click Save.
+
+### OR
 
 1. Create a new Pipeline job.
 2. Under Pipeline -> Definition, make sure it is "Pipeline Script".
