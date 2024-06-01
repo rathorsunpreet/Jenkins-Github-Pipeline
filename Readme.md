@@ -22,7 +22,6 @@ If keyword "report" is present during input, then a special stage within the pip
 4. Under Branches to build -> Branch Specifier, make sure it is "*/master".
 5. Under Script Path, make sure it is "Jenkinsfile".
 6. Click Save.
-7. Go to Dashboard -> Manage Jenkins -> In-process Script Approval and approve the script / whitelist groovy methods.
 
 ### OR
 
@@ -36,6 +35,9 @@ If keyword "report" is present during input, then a special stage within the pip
 
 ## Usage
 Click on "Build Now".
+
+## Notes
+You might need to approve the script or whitelist groovy methods if you get an error on the lines of "Scripts not permitted to use method org.jenkinsci.plugins.workflow.steps.FlowInterruptedException <groovy method name here>"
 
 ## License
 
