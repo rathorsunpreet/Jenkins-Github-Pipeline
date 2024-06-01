@@ -9,6 +9,8 @@ There are three outcomes that can occur, namely:
 
 If keyword "report" is present during input, then a special stage within the pipeline is executed which creates a zip file, named "HTML_Report.zip" at the project root.
 
+Demo / Explanation: https://www.youtube.com/watch?v=R1NcrJdQBN8
+
 ## Requirements
 * [Jenkins](https://www.jenkins.io/)
 * [NodeJS Jenkins Plugin](https://plugins.jenkins.io/nodejs/)
