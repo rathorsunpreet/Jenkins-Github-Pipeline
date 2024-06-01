@@ -22,6 +22,7 @@ If keyword "report" is present during input, then a special stage within the pip
 4. Under Branches to build -> Branch Specifier, make sure it is "*/master".
 5. Under Script Path, make sure it is "Jenkinsfile".
 6. Click Save.
+7. Go to Dashboard -> Manage Jenkins -> In-process Script Approval and approve the script.
 
 ### OR
 
